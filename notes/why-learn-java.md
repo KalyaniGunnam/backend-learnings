@@ -7,12 +7,11 @@ Before diving into Java, it's important to understand its significance compared 
 Java is widely used in various fields, from web development to enterprise applications. To understand why Java is essential, let’s look at an example:
 
 Imagine you're visiting the Flipkart homepage. When you click the login button and enter your mobile number, the system checks whether the number is valid.
+- If the mobile number is incorrect, an error message will appear.
+- If the number is valid, an OTP (One-Time Password) will be sent to your mobile.
+- If the OTP entered is incorrect, an error message will indicate that the OTP is wrong.
 
-If the mobile number is incorrect, an error message will appear.
-If the number is valid, an OTP (One-Time Password) will be sent to your mobile.
-If the OTP entered is incorrect, an error message will indicate that the OTP is wrong.
-
-How do these functionalities work behind the scenes on a software application (or website, from an end-user perspective)? These processes involve backend operations, which are crucial for creating interactive, dynamic websites and applications.
+**How do these functionalities work behind the scenes on a software application (or website, from an end-user perspective)?** These processes involve backend operations, which are crucial for creating interactive, dynamic websites and applications.
 
 As developers, we refer to these as software applications, while users generally call them websites. Java plays a significant role in handling such functionalities efficiently, ensuring smooth user experiences.
 
@@ -21,9 +20,9 @@ As developers, we refer to these as software applications, while users generally
 When you enter your mobile number on platforms like Flipkart, the system first checks whether the number is valid. If the mobile number is incorrect, the system will display an error message. If the number is correct, it will send an OTP to your mobile.
 
 When you enter the OTP:
+- If the OTP is incorrect, the system will prompt you that the OTP is invalid.
+- If the correct OTP is entered, the system grants access and displays your account details, including your name, address, previous orders, and other information tied to your mobile number.
 
-If the OTP is incorrect, the system will prompt you that the OTP is invalid.
-If the correct OTP is entered, the system grants access and displays your account details, including your name, address, previous orders, and other information tied to your mobile number.
 This process is similar on other platforms like Facebook, Gmail, Instagram, and many others. All these functionalities are handled by software applications that use backend logic to validate inputs and deliver real-time results.
 
 # Why Do We Need Software Applications?
@@ -32,7 +31,7 @@ In the software industry, creating applications is essential for automating task
 
 Let me provide you with some real-time scenarios to explain why software applications are crucial.
 
-# Scenario 1: Sending Money in the 1980s
+## Scenario 1: Sending Money in the 1980s
 
 Imagine it's the 1980s, and I want to send money to my family, who live far away. What options do I have?
 
@@ -43,7 +42,7 @@ The only option for sending money was money orders, which took around 3-4 workin
 
 It would take 5 days for my family to receive the money after sending it, which demonstrates the lack of instant communication and financial transaction tools during that time.
 
-# Scenario 2: Ordering Food in the Present Day
+## Scenario 2: Ordering Food in the Present Day
 
 Consider another scenario: I want to eat outside food. I have plenty of money in my account, so I can afford it. However, I have to go to the restaurant and pick up the food, which would take around 30 minutes. Additionally, if any of my cousins were to come over unexpectedly, I would need to clean up my house.
 
