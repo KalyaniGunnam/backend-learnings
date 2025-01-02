@@ -16,7 +16,7 @@ After receiving the OTP, you must enter it:
 
 Upon successful login, your account details will be displayed, including your name, address, previous orders, and other information tied to your mobile number. This process is similar on other platforms like Facebook, Gmail, Instagram, and many others. All these functionalities are handled by software applications that use backend logic to validate inputs and deliver real-time results.
 
-## How do these functionalities work behind the scenes on a software application (or website, from an end-user perspective)?
+### How do these functionalities work behind the scenes on a software application (or website, from an end-user perspective)?
 
 These processes involve backend operations, which are crucial for creating interactive, dynamic websites and applications. As developers, we refer to these as software applications, while users generally call them websites. Java plays a significant role in handling such functionalities efficiently, ensuring smooth user experiences.
 
