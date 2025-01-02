@@ -63,7 +63,8 @@ In the past, a software application was typically designed with a **monolithic a
 3. Database
 - The database stored all the data for the application, such as user information, orders and other transactional data.
 
-<img src="../images/monolithic architecture.webp" alt="monolithic architecture">
+![Monolithic Architecture](images/monolithic%20architecture.webp)
+
 
 # Designing a Flipkart-like Application: 
 To better understand the need for microservices, let’s consider the design of a modern e-commerce application like Flipkart. Such an application can be divided into distinct functional modules, each addressing a specific area of functionality.
@@ -103,8 +104,6 @@ To address these limitations of monolithic architecture, Microservices architect
 Each service is responsible for a specific functionality (e.g., user management, product management) and can be developed, deployed, and scaled independently.
 
 This approach offers:
-
-<<<<<<< HEAD
 **Emergence of Microservices**:
 Microservices break down a monolithic application into smaller, independent services. Each service is responsible for a specific functionality (e.g., user authentication, payment processing, product management).
 These services can be developed, deployed, and scaled independently, making the overall application more modular and manageable.
@@ -124,4 +123,3 @@ The shift towards microservices is driven by the need for:
 - Flexibility: Easier updates and maintenance.
 - Scalability: Scale individual services based on demand.
 - Resilience: Failure in one service doesn't affect the entire application.
->>>>>>> 19dfd0e (Update content for why-learn-java-springboot-microservices.md with detailed notes)
