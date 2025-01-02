@@ -17,7 +17,7 @@ Frontend involves everything the user can see and interact with directly, also k
 - **JavaScript**: For adding interactivity.
 - **Frameworks**: React or Angular are often used to enhance frontend functionality.
 
-Example: In Flipkart, the pages displaying products, login fields, and buttons are part of the frontend.
+Example: In Flipkart, the pages displaying products, login fields and buttons are part of the frontend.
 
 ### Backend Development
 
