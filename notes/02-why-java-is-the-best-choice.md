@@ -26,10 +26,7 @@ Backend involves the logic and functionality that run behind the scenes to make 
 - Processing user requests (e.g., sending an OTP to a valid mobile number).
 - Providing responses (e.g., displaying account details upon successful login).
 
-When you click the login button, the backend:
-- Verifies whether the mobile number exists in the database.
-- Sends an OTP if the number is valid.
-- Checks if the entered OTP is correct.
+Example: When you click the login button, the backend: Verifies whether the mobile number exists in the database, Sends an OTP if the number is valid and Checks if the entered OTP is correct.
 
 Backend technologies like Java, Python or .NET implement this logic. While the frontend remains the same (HTML, CSS, JavaScript), the backend technology determines the application's behavior.
 
