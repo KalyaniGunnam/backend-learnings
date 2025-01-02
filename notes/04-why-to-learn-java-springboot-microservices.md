@@ -8,7 +8,7 @@ Before diving into these technologies, it's essential to understand their differ
 
 To excel as a backend developer, you must be familiar with all three.
 
-**What is a Programming Language?**
+# What is a Programming Language?
 
 Programming is a way of instructing computers to perform specific tasks in a defined manner. A programming language consists of a set of instructions written by a programmer to communicate with the computer. These instructions, structured following the syntax of the language, form what is often called code.
 
