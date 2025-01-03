@@ -11,6 +11,7 @@ To excel as a backend developer, you must be familiar with all three.
 - To Understand the basics, fundamentals and concepts of programming.
 - Learn how to write programs following the rules and regulations of the language.
 - Use the correct concepts and techniques at the right time to build effective solutions.
+
 With just a programming language, you can create software applications without needing a framework.
 
 # Then What Is The Use Frameworks?
