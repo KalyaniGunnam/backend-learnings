@@ -40,7 +40,7 @@ This paradigm focuses on describing what a program should accomplish, leaving th
 # Java 
 Java is a high-level, class-based, object-oriented programming language developed by Sun Microsystems and officially released in 1996. It was originally created by James Gosling in June 1991, but its first official version came out in 1996. Currently, Java is maintained by Oracle Corporation.
 
-# Name behind Java(Oak to Java)
+# Name Behind Java(Oak to Java)
 When James Gosling and his team at Sun Microsystems started developing the language in 1991, they initially named it "Oak". The inspiration came from an oak tree outside Gosling's office, symbolizing strength and reliability.
 
 However, during preparations for the first public release, the team discovered that "Oak" was already trademarked by another company in the computer industry. This led to a brainstorming session for a new name.
