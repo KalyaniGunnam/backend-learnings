@@ -9,9 +9,9 @@ A **programming paradigm** is a method or approach that defines a set of princip
 #### 1. Imperative Programming Paradigm (How to do): 
 This paradigm focuses on describing how a program operates. It emphasizes explicit instructions on how to achieve a task step by step.
 
-- **Procedural Programming**: Programs are divided into procedures or functions.
-
-- - Example: C, Pascal.
+- **Procedural Programming**:
+      Programs are divided into procedures or functions.
+      Example: C, Pascal.
 
 - **Structured Programming**: Focuses on improving code readability and reducing complexity by following structured flow (sequence, selection, iteration).
 Example: Modern C, early Python.
