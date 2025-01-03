@@ -37,3 +37,8 @@ This paradigm focuses on describing what a program should accomplish, leaving th
 -   Deals with querying and manipulating databases using structured query languages like SQL.
     -   Example:  SQL, MongoDB Query Language.
 
+# Java 
+Java is a high-level, class-based, object-oriented programming language developed by Sun MicroSystems and released in 1996. Actually Java was developed by **James Gosling** in june 1991 but the first version java was officially released in 1996 by Sun MicroSystems. Currently it is being maintained by Oracle Corporation.
+
+# Name behind Java(Oak to Java)
+When James Gosling and his team at Sun Microsystems began developing the language in 1991, they initially named it "Oak". The name was chosen from an Oak Tree. There was a large oak tree outside Gosling's office at Sun Microsystems, which served as a source of inspiration. However, when the team was preparing for the first public release of the language, they discovered that "Oak" was already trademarked by another company in the computer industry.The team brainstormed alternative names. During one of their brainstorming sessions,the name "Java" was suggested.The team drank a lot of coffee while working on the project. They were particularly fond of a high-quality coffee called Java.The team felt this name was simple, unique and had a modern tech appeal. Hence the java logo was designed as a steaming coffee cup
