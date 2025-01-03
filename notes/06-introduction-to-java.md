@@ -6,7 +6,7 @@ Programming is a way to instruct a computer to perform tasks in a specified mann
 
 A **programming paradigm** is a method or approach that defines a set of principles, techniques and patterns for structuring code to solve problems on a computer. Programming paradigms can be broadly classified into two categories:
 
-### 1. Imperative Programming Paradigm (How to do): 
+## 1. Imperative Programming Paradigm (How to do): 
 This paradigm focuses on describing how a program operates. It emphasizes explicit instructions on how to achieve a task step by step.
 
 ##### a) Procedural Programming:
@@ -22,7 +22,7 @@ This paradigm focuses on describing how a program operates. It emphasizes explic
     -   Example: Java, C++, Python.
 
 
-### 2. Declarative Programming Paradigm (What to do):
+## 2. Declarative Programming Paradigm (What to do):
 This paradigm focuses on describing what a program should accomplish, leaving the details of how it’s done to the underlying system.
 
 ##### a) Functional Programming:
