@@ -42,6 +42,6 @@ Example: Consider a simple login button implementation:
 Frameworks significantly reduce development time while providing enhanced functionality. Frameworks like **ReactJS** and **AngularJS** are categorized as frontend frameworks. They are used in conjunction with core technologies to build efficient and scalable applications, demonstrating their value in modern development.
 
 # What Is Microservice
-A microservice is a software architecture pattern where an application is built as a collection of small, loosely coupled, and independently deployable services. Each service is designed to perform a specific business function and communicates with other services through lightweight protocols like HTTP or messaging queues.
+A microservice is a software architecture pattern where an application is built as a collection of small, loosely coupled and independently deployable services. Each service is designed to perform a specific business function and communicates with other services through lightweight protocols like HTTP or messaging queues.
 
 
