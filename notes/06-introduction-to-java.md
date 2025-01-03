@@ -18,7 +18,7 @@ Example: Modern C, early Python.
 - **Object-Oriented Programming (OOP)**: Organizes code into objects, which are instances of classes.
 Example: Java, C++, Python.
 
-#### 2. Declarative Programming Paradigm (What to do)
+#### 2. Declarative Programming Paradigm (What to do):
 This paradigm focuses on describing what a program should accomplish, leaving the details of how it’s done to the underlying system.
 
 - **Functional Programming**: Treats computation as the evaluation of mathematical functions without changing state or data.
