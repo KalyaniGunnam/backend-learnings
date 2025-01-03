@@ -13,8 +13,9 @@ This paradigm focuses on describing how a program operates. It emphasizes explic
 -   Programs are divided into procedures or functions.
      - Example: C, Pascal.
 
-- **Structured Programming**: Focuses on improving code readability and reducing complexity by following structured flow (sequence, selection, iteration).
-Example: Modern C, early Python.
+- **Structured Programming**:
+-   Focuses on improving code readability and reducing complexity by following structured flow (sequence, selection, iteration).
+   - Example: Modern C, early Python.
 
 - **Object-Oriented Programming (OOP)**: Organizes code into objects, which are instances of classes.
 Example: Java, C++, Python.
