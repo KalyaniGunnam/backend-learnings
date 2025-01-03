@@ -21,11 +21,11 @@ Example: Java, C++, Python.
 #### 2. Declarative Programming Paradigm (What to do)
 This paradigm focuses on describing what a program should accomplish, leaving the details of how it’s done to the underlying system.
 
-**a. Functional Programming**: Treats computation as the evaluation of mathematical functions without changing state or data.
+- **Functional Programming**: Treats computation as the evaluation of mathematical functions without changing state or data.
 Example: Haskell, Scala, JavaScript (functional aspects).
 
-**b.Logic Programming**: Uses formal logic to express rules and facts to derive conclusions.
+- **Logic Programming**: Uses formal logic to express rules and facts to derive conclusions.
 Example: Prolog, Datalog.
 
-**c.Database Programming**: Deals with querying and manipulating databases using structured query languages like SQL.
+- **Database Programming**: Deals with querying and manipulating databases using structured query languages like SQL.
 Example: SQL, MongoDB Query Language.
