@@ -12,7 +12,7 @@ Over a decade ago, a software application was typically designed with a **monoli
 3. **Database**
 - The database stored all the data for the application, such as user information, orders and other transactional data.
 
-![Monolithic Architecture](../images/monolithic%20architecture.webp)
+![Monolithic Architecture](https://github.com/KalyaniGunnam/backend-learnings/blob/main/notes/images/monolithic%20architecture.webp)
 
 
 # Example: To better understand the need for microservices
