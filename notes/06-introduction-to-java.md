@@ -11,7 +11,7 @@ This paradigm focuses on describing how a program operates. It emphasizes explic
 
 - **Procedural Programming**: Programs are divided into procedures or functions.
 
-Example: C, Pascal.
+- - Example: C, Pascal.
 
 - **Structured Programming**: Focuses on improving code readability and reducing complexity by following structured flow (sequence, selection, iteration).
 Example: Modern C, early Python.
