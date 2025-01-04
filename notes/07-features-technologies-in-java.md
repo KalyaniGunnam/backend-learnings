@@ -12,7 +12,7 @@ Java is a platform-independent language meaning compiled Java code can run on an
 
 Again for understanding I am considering an analogy here - Imagine you write a recipe on a piece of paper and anyone, anywhere in the world, can use it to cook, as long as they have the right tools in their kitchen. It doesn't matter if the kitchen is in India or in the USA or in Japan—the recipe works everywhere.
 
-Java works in a similar way. When you write Java code, it gets converted into a special "recipe" called **bytecode**. This bytecode can be used on any computer or device, as long as it has a tool called the JVM (Java Virtual Machine).So, you write the code once, and it can "run anywhere" without needing to be rewritten for different types of computers. This idea is called WORA (Write Once, Run Anywhere), making Java very flexible and widely used.
+Java works in a similar way. When you write Java code, it gets converted into a special "recipe" called **bytecode**. This bytecode can be used on any computer or device, as long as it has a tool called the JVM (Java Virtual Machine). So, you write the code once, and it can "run anywhere" without needing to be rewritten for different types of computers. This idea is called WORA (Write Once, Run Anywhere), making Java very flexible and widely used.
 
 What is JVM and all you will learn soon in Java architecture.
 
