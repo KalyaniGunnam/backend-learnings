@@ -37,7 +37,7 @@ Here we discussed the features of Java which make Java standout. There is also d
 
 # Disadvantage In Java
 
-When designing User Interfaces (UI) purely with Java, without using additional libraries or frameworks, the resulting UI may often appear basic, outdated, or less polished compared to modern design standards. This happens because:
+When designing User Interfaces (UI) purely with Java, without using additional libraries or frameworks, the resulting UI may often appear basic, outdated or less polished compared to modern design standards. This happens because:
 - Java's standard library for UI, such as AWT (Abstract Window Toolkit) and Swing, provides only basic components and lacks the advanced, visually rich elements expected in modern applications.
 - To make Java-based UIs look modern and appealing, developers need to write extensive custom code, which can be time-consuming and complex.
 
