@@ -5,7 +5,7 @@ A feature refers to a key characteristics that making something standout and def
 ## 1.Object-oriented:
 Java is an object oriented programming language which means, Java uses objects to represent real-world entitie, making the code more modular, reusable and maintainable.
 
-In simple terms, think of an objects as a way to describe something we know like a car,person or a dog.Each object has: **Features(attributes)** and **Actions(Behaviors)**. Let's consider an example: If we consider car as an example - color of the car, height of the car, brand of the car - all these are features(attributes) of a car, While the car can drive, It can stop when breaks are applied, you can honk the horn - all thses are actions(behaviors) done by a car. 
+In simple terms, think of an objects as a way to describe something we know like a car,person or a dog. Each object has: **Features(attributes)** and **Actions(Behaviors)**. Let's consider an example: If we consider car as an example - color of the car, height of the car, brand of the car - all these are features(attributes) of a car, While the car can drive, It can stop when breaks are applied, you can honk the horn - all thses are actions(behaviors) done by a car. 
 
 ## 2. Platform-Independent:
 Java is a platform-independent language meaning compiled Java code can run on any device with JVM.This concept is called "WORA"(Write Once Run Anywhere).
