@@ -3,7 +3,7 @@
 A feature refers to a key characteristics that making something standout and define its functionality, usability or uniqueness.  In the context of programming languages like Java, features are the distinctive qualities or capabilities that make the language effective and popular among developers. Let's explore the features of Java that make it distinct.
 
 ## 1.Object-oriented:
-Java is object oriented programming language which means, Java uses objects to represent real-world entitie, making the code more modular, reusable and maintainable.
+Java is an object oriented programming language which means, Java uses objects to represent real-world entitie, making the code more modular, reusable and maintainable.
 
 In simple terms, think of an objects as a way to describe something we know like a car,person or a dog.Each object has:
 Features(attribute) and Action(Behaviors).Let's consider an example: If we consider car as an example - color of the car, height of the car, brand of the car all these are features(attributes) of a car, While the car can drive, It can stop when breaks are applied, you can honk the horn all thses are actions(behaviors).
