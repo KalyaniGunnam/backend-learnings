@@ -26,7 +26,7 @@ Java is secure due to its built-in security features like bytecode verification(
 Java is known for its robustness, since it has a strong memory management through garbage collection(again you will learn this in Java architecture) and also it includes extensive compile time and runtime error checking(what is runtime and compile time errors - you will clearly know once you start doing programming), which reduces the likelihood of bugs and crashes.
 
 ## 6. Multithreading:
-One of the most important feature is multithreading.Java supports multi threading which can perform multiple tasks simultaneously, making efficient use of modern multicore processors(We will go deep dive when we learn about multithreading concept).
+One of the most important feature is multithreading. Java supports multi threading which can perform multiple tasks simultaneously, making efficient use of modern multicore processors(We will go deep dive when we learn about multithreading concept).
 
 ## 7. High performance:
 Last but not least Java achieves high performance through JIT compiler, which compiles bytecode into machine code at run time(again you will learn this in Java architecture), significantly boosting execution speed.
