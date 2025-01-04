@@ -45,7 +45,7 @@ To overcome these challenges, developers often rely on modern Java UI frameworks
 
 # What Are The Different Technologies Available In Java
 
-There are three technologies available in Java.They are,
+There are three technologies available in Java. They are,
 - **Java SE(Standard Edition)** for designing standalone applications. 
 - **Java EE(Enterprise Edition)** for designing web applications. 
 - **Java ME(Micro Edition)** for designing mobile applications. 
