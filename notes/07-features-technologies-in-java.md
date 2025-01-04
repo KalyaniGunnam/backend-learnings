@@ -20,7 +20,7 @@ What is JVM and all you will learn soon in Java architecture.
 Java is designed to be simple and easy to learn, with a clean and readable code.
 
 ## 4. Secure:
-Java is secure due to its built-in security features like bytecode verification(again you will learn this in Java architecture) and absence of pointers. Hence Java has become one of the most secure optionfor networked applications.
+Java is secure due to its built-in security features like bytecode verification(again you will learn this in Java architecture) and absence of pointers. Hence Java has become one of the most secure option for networked applications.
 
 ## 5. Robustness:
 Java is known for its robustness, since it has a strong memory management through garbage collection(again you will learn this in Java architecture) and also it includes extensive compile time and runtime error checking(what is runtime and compile time errors - you will clearly know once you start doing programming), which reduces the likelihood of bugs and crashes.
