@@ -31,9 +31,9 @@ One of the most important feature is multithreading. Java supports multi threadi
 ## 7. High performance:
 Last but not least Java achieves high performance through JIT compiler, which compiles bytecode into machine code at run time(again you will learn this in Java architecture), significantly boosting execution speed.
 
-So overall Java combination of simplicity, robustness, security and platform independence makes a Java powerful tool for the wide range of applications.
+**So overall Java combination of simplicity, robustness, security and platform independence makes a Java powerful tool for the wide range of applications.**
 
-Here we discussed the features of Java that make Java standout.There is also disadvantage in Java let's explore what it is.
+Here we discussed the features of Java which make Java standout. There is also disadvantage in Java let's explore what it is.
 
 # Disadvantage In Java
 
