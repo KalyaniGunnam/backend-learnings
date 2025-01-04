@@ -8,7 +8,7 @@ Java is an object oriented programming language which means, Java uses objects t
 In simple terms, think of an objects as a way to describe something we know like a car,person or a dog. Each object has: **Features(attributes)** and **Actions(Behaviors)**. Let's consider an example: If we consider car as an example - color of the car, height of the car, brand of the car - all these are features(attributes) of a car, While the car can drive, It can stop when breaks are applied, you can honk the horn - all thses are actions(behaviors) done by a car. 
 
 ## 2. Platform-Independent:
-Java is a platform-independent language meaning compiled Java code can run on any device with JVM.This concept is called "WORA"(Write Once Run Anywhere).
+Java is a platform-independent language meaning compiled Java code can run on any device with JVM. This concept is called "WORA"(Write Once Run Anywhere).
 
 Again for understanding I am considering an analogy here - Imagine you write a recipe on a piece of paper and anyone, anywhere in the world, can use it to cook, as long as they have the right tools in their kitchen. It doesn't matter if the kitchen is in India or in the USA or in Japan—the recipe works everywhere.
 
