@@ -10,11 +10,13 @@ You will usually see these important folders and files:
 **a. src (Source Code Folder):** This is where you keep all your Java code.v Think of it as the “engine room” where the actual work happens. Inside src, you’ll often organize your files into packages (folders) to group related code.
 
 For example:
+```
 src/
   com/
     myjavaapp/
       Main.java  <-- Your main program file
       Helper.java <-- Other Java classes
+```
 
 **b. bin (Binary Folder):** After you compile your Java code, the .class files (bytecode) are stored here. Think of it as the “ready-to-run” version of your code. Some projects may skip this and let .class files stay in the same folder as the source code.
 
