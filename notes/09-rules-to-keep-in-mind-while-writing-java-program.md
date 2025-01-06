@@ -5,9 +5,9 @@
 - Think of a class as a box where all your program’s instructions are stored.
 - You create a class using the class keyword. For example:
 
-class TestProgram{
+class TestProgram {
 
-}
+ }
 
 ## 2. Classes Hold Variables and Methods
 - A variable is like a container that stores information (e.g., a number or a name).
@@ -20,7 +20,7 @@ class TestProgram{
 - To run a Java program, you must have a main method.
 - Think of the main method as the starting point where your program begins. For example:
 
-class TestProgram{
+class TestProgram {
     public static void main(String[] args){
         system.out.println("Hello, World");
     }
