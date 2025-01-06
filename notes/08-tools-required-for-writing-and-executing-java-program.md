@@ -1,4 +1,4 @@
-# Tools Required To Develop and Run Java Programs
+# Tools Required To Develop And Run Java Programs
 
 To write and run Java programs, you need some tools installed on your computer. Let’s break it down in simple terms:
 
