@@ -23,16 +23,19 @@ src/
 **c. lib (Libraries Folder):** This folder is where you keep external libraries (extra tools or code you need). These are usually .jar files (Java’s version of zip files for code).
 
 Example:
+```
 lib/
   mysql-connector.jar
   log4j.jar
-
+```
 **d. resources (Optional):** If your project uses non-code files like images, configuration files or text files, you store them here. Think of this as the “storage room” for extras.
 
 Example:
+```
 resources/
   config.properties
   logo.png
+```
 
 **e. test (Optional):** This is where you write tests to check if your program is working correctly. It’s like a “quality check room.”
 
@@ -46,7 +49,7 @@ Apart from folders, you’ll also see some important files in the root folder:
 **c. .gitignore:** If you use Git for version control, this file tells Git which files/folders to ignore. For example, you usually don’t want to upload .class files or libraries.
 
 ## Example Folder Structure
-
+```
 MyJavaApp/
   src/               <-- All Java code
     com/
@@ -66,3 +69,4 @@ MyJavaApp/
     MainTest.java
   README.md          <-- Project description
   .gitignore         <-- Git ignore file
+```
