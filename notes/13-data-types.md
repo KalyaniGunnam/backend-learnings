@@ -22,7 +22,8 @@ Primitive data types represent basic data values and are predefined by the Java 
         16-bit Unicode character. → 2 bytes
 ```
 
-#### Examples:: 
+#### Examples:
+```
 // Primitive data types
 byte myByte = 10;
 short myShort = 100;
@@ -32,10 +33,11 @@ float myFloat = 10.5f;
 double myDouble = 10.12345;
 char myChar = 'A';
 boolean myBoolean = true;
-
+```
 
 Note : In Java, a wrapper class is a class that wraps a primitive data type within an object. 
 
+```
 Integer: Wraps an int.
 Long: Wraps a long.
 Float: Wraps a float.
@@ -44,17 +46,21 @@ Byte: Wraps a byte.
 Short: Wraps a short.
 Character: Wraps a char.
 Boolean: Wraps a boolean
+```
 
 ### Non-Primitive (or) Reference Data Types :
 Non-Primitive data types refer to objects and are created using classes or interfaces. They store references to objects in memory rather than the actual data. Examples of reference data types include classes, arrays and collections.
 
 #### Examples:
+```
 // Reference data types
 String myString = "Hello, Java!";
 int[] myArray = {1, 2, 3, 4, 5};
+```
 
 # Computer Memory Units :
 Computer memory units refer to the units of measurement used to quantify the amount of memory (storage capacity) in a computer system. These units are used to describe the size or capacity of various types of memory components, such as RAM (Random Access Memory), storage devices (hard drives, solid-state drives), and cache memory. Here are some commonly used memory units:
+```
 Bit = Binary Digit
 1 Nibble = 4 bits
 1 Byte = 8 bits
@@ -63,8 +69,10 @@ Bit = Binary Digit
 1 Giga Byte(GB) = 1024 MB
 1 Tera Byte(KB) = 1024 GB
 1 Peta Byte(KB) = 1024 TB
+```
 
 # Default Values For Primitive Data Types :
+```
 byte: 0
 short: 0
 int: 0	
@@ -73,3 +81,4 @@ float: 0.0f
 double: 0.0d
 boolean: false
 char: '\u0000' (null character)
+```
