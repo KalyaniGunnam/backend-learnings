@@ -6,9 +6,11 @@ Before diving into Java, it's important to understand its significance compared 
 
 Java is widely used in various fields, **from web development to enterprise applications** . To understand why Java is essential, let’s look at an example:
 
-Imagine you're visiting the Flipkart homepage and click the login button, you are prompted to enter your mobile number. The system checks whether the mobile number entered is valid or not:
-- If the mobile number is invalid, an error message will appear.
-- If the mobile number is valid, an OTP (One-Time Password) will be sent to your mobile.
+**Imagine you're visiting the Flipkart homepage and clicking the login button**
+
+-you are prompted to enter your mobile number. The system checks whether the mobile number entered is valid or not:
+  - If the mobile number is invalid, an error message will appear.
+  - If the mobile number is valid, an OTP (One-Time Password) will be sent to your mobile.
 
 After receiving the OTP, you must enter it:
 - If the OTP is incorrect, the system will display an error message indicating that the OTP is invalid.
