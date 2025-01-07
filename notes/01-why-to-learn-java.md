@@ -8,7 +8,7 @@ Java is widely used in various fields, **from web development to enterprise appl
 
 **Imagine you're visiting the Flipkart homepage and clicking the login button**
 
--you are prompted to enter your mobile number. The system checks whether the mobile number entered is valid or not:
+- You are prompted to enter your mobile number. The system checks whether the mobile number entered is valid or not:
   - If the mobile number is invalid, an error message will appear.
   - If the mobile number is valid, an OTP (One-Time Password) will be sent to your mobile.
 
