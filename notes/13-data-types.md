@@ -6,6 +6,7 @@ In Java, data types specify the type of data that variables can store. (or) A da
 
 ### Primitive Data Types : 
 Primitive data types represent basic data values and are predefined by the Java language. There are eight primitive data types in Java:
+```
 **(a) numeric type of data :**
     - Integer data type : 
         - byte: 8-bit signed integer. → 1 byte
@@ -19,6 +20,7 @@ Primitive data types represent basic data values and are predefined by the Java 
 - Represents true(1) or false(0). → 1 bit
 **(c) character type of data :**
 - 16-bit Unicode character. → 2 bytes
+```
 
 #### Examples:: 
 // Primitive data types
