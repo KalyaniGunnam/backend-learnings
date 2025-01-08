@@ -31,8 +31,6 @@ When you click the login button, the backend:
 
 Backend technologies like Java, Python or .NET implement this logic. 
 
-*Key Point:* The frontend remains consistent (HTML, CSS, JavaScript), but the backend technology determines the application's behavior.
-
 # Full-Stack Developer Specializations
 Your title as a full-stack developer depends on the backend technology you specialize in.
 - **Java Full-Stack Developer**: Backend development is done using Java (often with frameworks like Spring or Hibernate).
