@@ -33,7 +33,7 @@ After the high-level analysis is completed, the next step is design.
 Now, the **actual development begins:**
 #### *1. Database Selection:*
 - A suitable database is chosen based on the requirements (e.g., MySQL, PostgreSQL, or Oracle).
- #### *1. Development Process:* 
+ #### *2. Development Process:* 
 - Developers begin writing code and implementing functionality as per the design and requirements.
 
 # Key Tasks for Developers:
