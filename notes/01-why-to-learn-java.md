@@ -25,7 +25,7 @@ Software applications are crucial for automating tasks, managing vast amounts of
 ## Scenario 1: Sending Money in the 1980s
 
 Imagine it's the 1980s, and I want to send money to my family, who live far away. What options do I have? Earlier, sending money instantly was not possible. Technology was not as advanced as it is today. At that time, there was no PhonePe, Google Pay, or even proper bank accounts for everyone. Having a bank account was considered a status symbol, and many people, including my parents, didn't have one.
-The only option for sending money was **money orders**, which took around 3-4 working days to reach the recipient.It would take 5 days for my family to receive the money after sending it, which demonstrates the lack of instant communication and financial transaction tools during that time.
+The only option for sending money was **money orders**, which took around 3-4 working days to reach the recipient. It would take 5 days for my family to receive the money after sending it, which demonstrates the lack of instant communication and financial transaction tools during that time.
 
 ## Scenario 2: Ordering Food In The Present Day
 
