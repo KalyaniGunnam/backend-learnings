@@ -30,6 +30,7 @@ When you click the login button, the backend:
 - Checks if the entered OTP is correct.
 
 Backend technologies like Java, Python or .NET implement this logic. 
+
 *Key Point:* The frontend remains consistent (HTML, CSS, JavaScript), but the backend technology determines the application's behavior.
 
 # Full-Stack Developer Specializations
