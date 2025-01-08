@@ -3,6 +3,7 @@ Now that you have a clear understanding of frontend, backend and full-stack deve
 - **Java**: A programming language
 - **Spring Boot**: A framework
 - **Microservices**: An architecture
+
 To excel as a backend developer, you must be familiar with all three.
 
 # What Is a Programming Language?
