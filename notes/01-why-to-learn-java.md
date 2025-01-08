@@ -4,7 +4,7 @@ Before diving into Java, it's important to understand its significance compared 
 
 # Where is Java Used?
 
-Java is widely used in various fields, **from web development to enterprise applications** . To understand why Java is essential, let’s look at an example:
+Java is widely used in various fields, **from web development to enterprise applications**. To understand why Java is essential, let’s look at an example:
 
 **Imagine you're visiting the Flipkart homepage and clicking the login button**
 
