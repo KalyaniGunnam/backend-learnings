@@ -29,9 +29,9 @@ The only option for sending money was **money orders**, which took around 3-4 wo
 
 ## Scenario 2: Ordering Food In The Present Day
 
-I want to eat outside food.This time I have plenty of money in my account, so I can afford it. However, I have to go to the restaurant and pick up the food, which would take around 30 minutes. Additionally, if any of my cousins were to come over unexpectedly, I would need to clean up my house. In the past, this would have been a burden. But today, thanks to online ordering applications like Swiggy or Zomato, I can quickly place an order and have the food delivered to my home. Meanwhile, I can organize my house, saving time and effort.
+I want to eat outside food. This time I have plenty of money in my account, so I can afford it. However, I have to go to the restaurant and pick up the food, which would take around 30 minutes. Additionally, if any of my cousins were to come over unexpectedly, I would need to clean up my house. In the past, this would have been a burden. But today, thanks to online ordering applications like Swiggy or Zomato, I can quickly place an order and have the food delivered to my home. Meanwhile, I can organize my house, saving time and effort.
 
-This scenario highlights how software applications have revolutionized our lives by providing convenience, saving time, and offering solutions that were not possible in the past.
+This scenario highlights how software applications have revolutionized our lives by providing convenience, saving time and offering solutions that were not possible in the past.
 
  *Key Benefits:*
   - Time-saving.
@@ -40,11 +40,9 @@ This scenario highlights how software applications have revolutionized our lives
 These examples show how software applications have revolutionized our lives by solving everyday problems efficiently.
 
 # Identifying Problems and Creating Solutions Through Software Applications
-
 Companies like **Google Pay** and **Zomato** identified real-world problems and developed solutions.
 - Google Pay addressed the issue of slow money transfers.
 - Zomato made food ordering and delivery seamless.
-
 The success of such applications lies in identifying problems around us and creating **innovative solutions** to address them.
 
 **Not only do users benefit from these solutions, but the creators also profit** through commissions or other business models. This highlights how software applications resolve human issues and generate business opportunities simultaneously.
