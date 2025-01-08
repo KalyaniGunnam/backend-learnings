@@ -16,7 +16,7 @@ Java is widely used in various fields, **from web development to enterprise appl
 - If the OTP is **incorrect**, the system will display an error message.
 - If the OTP is **correct**, the system will grant access, displaying your account details (e.g., name, address, and previous orders).
 
-This process is similar on other platforms like Facebook, Gmail, Instagram, and many others. All these functionalities are handled by **backend operations**, which java excels at, ensuring smooth user experiences.
+This process is similar on other platforms like Facebook, Gmail, Instagram and many others. All these functionalities are handled by **backend operations**, which java excels at, ensuring smooth user experiences.
 
 # Why Do We Need Software Applications?
 
