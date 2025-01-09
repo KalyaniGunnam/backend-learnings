@@ -1,6 +1,5 @@
 # Features Of Java
-
-A feature refers to a key characteristics that making something standout and define its functionality, usability or uniqueness.  In the context of programming languages like Java, features are the distinctive qualities or capabilities that make the language effective and popular among developers. Let's explore the features of Java that make it distinct.
+A feature refers to a **key characteristics** that making something standout and define its functionality, usability or uniqueness.  In the context of programming languages like Java, features are the distinctive qualities or capabilities that make the language effective and popular among developers. Let's explore the features of Java that make it distinct.
 
 ## 1.Object-oriented:
 Java is an object oriented programming language which means, Java uses objects to represent real-world entitie, making the code more modular, reusable and maintainable.
@@ -36,7 +35,6 @@ Last but not least Java achieves high performance through JIT compiler, which co
 Here we discussed the features of Java which make Java standout. There is also disadvantage in Java let's explore what it is.
 
 # Disadvantage In Java
-
 When designing User Interfaces (UI) purely with Java, without using additional libraries or frameworks, the resulting UI may often appear basic, outdated or less polished compared to modern design standards. This happens because:
 - Java's standard library for UI, such as AWT (Abstract Window Toolkit) and Swing, provides only basic components and lacks the advanced, visually rich elements expected in modern applications.
 - To make Java-based UIs look modern and appealing, developers need to write extensive custom code, which can be time-consuming and complex.
@@ -44,7 +42,6 @@ When designing User Interfaces (UI) purely with Java, without using additional l
 To overcome these challenges, developers often rely on modern Java UI frameworks or libraries such as **JavaFX**, or even integrate Java with web-based UI technologies like HTML, CSS and JavaScript. These tools provide advanced design capabilities, animations and responsive layouts, enabling developers to create visually appealing and user-friendly interfaces.
 
 # What Are The Different Technologies Available In Java
-
 There are three technologies available in Java. They are,
 - **Java SE(Standard Edition)** for designing standalone applications. 
 - **Java EE(Enterprise Edition)** for designing web applications. 

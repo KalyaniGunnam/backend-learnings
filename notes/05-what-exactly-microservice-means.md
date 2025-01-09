@@ -1,5 +1,4 @@
 # Understanding Microservices
-Software development has evolved significantly over the years and the shift from traditional monolithic architectures to microservices has played a crucial role. This guide explores the evolution of software architecture and key functional modules in modern applications like Flipkart.
 
 ## What Is Monolithic Architecture
 Over a decade ago, a software application was typically designed with a **monolithic architecture**. The term "monolithic" comes from "mono," meaning single. A monolithic application is built as a single, unified codebase, where all functionalities are implemented in a single project or repository. The architecture includes the following key components:
@@ -14,8 +13,7 @@ Over a decade ago, a software application was typically designed with a **monoli
 
 ![Monolithic Architecture](https://github.com/KalyaniGunnam/backend-learnings/blob/main/notes/images/monolithic%20architecture.webp)
 
-
-# Example: To better understand the need for microservices
+# Example: To better understand the need for Microservices
 let’s consider the design of a modern e-commerce application like Flipkart. Such an application can be divided into distinct functional modules, each addressing a specific area of functionality.
 
 ##### User Management
@@ -30,7 +28,6 @@ Once products are added to the cart, the **Order Management** Module takes over.
 ##### Payment Module
 After order confirmation, the **Payment Module** facilitates secure payment processing. It integrates with multiple payment gateways to allow customers to pay using methods like credit cards, debit cards, net banking and digital wallets. This module also manages payment success and failure cases and maintains a history of all transactions for future reference.
 
-
 ##### Delivery Management
 The next step is handled by the **Delivery Management** Module, which oversees the logistics of delivering the products to customers. This module allows delivery personnel to log in, view customer addresses and product details, and can also update the delivery status. Customers are notified of the progress through updates like "Out for delivery" or "Delivered."
 
@@ -40,8 +37,7 @@ Finally, the **Returns and Refunds** Module addresses customer dissatisfaction b
 So in this case, a monolithic design means all functionalities of an application—whether related to user management, product handling, orders, payments, delivery, or returns and refunds—were implemented as part of a single codebase. This unified approach meant that everything was contained within a single project and all components were tightly integrated.
 
 # Why To Use Microservices?
-
-Microservices are generally referred to as distributed systems, and there’s a strong reason behind this. Let’s understand the need for Microservices with an example. 
+Microservices are **distributed systems**, designed to overcome monolithic architecture's limitations. Let’s understand the need for Microservices with an example. 
 
 Consider a typical e-commerce application like Flipkart. On a normal day, assume that around **1 lakh customers** use the platform daily. Now, imagine Flipkart announces its **Big Billion Day Sale**, offering discounts of up to **80%**.
 
@@ -53,7 +49,7 @@ Now, let’s think about what users typically do on such platforms. The most com
 Now, consider the same scenario on Big Billion Day with 10 lakh users:
 - 100 requests per user × 10 lakh users = 100 crore requests.
 
-Clearly, the system needs to handle a massive load during such peak times.If the system cannot manage this load properly, it will crash. 
+Clearly, the system needs to handle a massive load during such peak times. If the system cannot manage this load properly, it will crash. 
 
 To address the limitations of monolithic architecture, Microservices architecture divides the application into smaller, independent services. Each service is responsible for a specific functionality (e.g., user management, product management) and can be developed, deployed and scaled independently. Let's see how
 
@@ -65,7 +61,7 @@ Let’s continue with the Flipkart example. Imagine users are exploring products
 - Then the Consequences is customers become frustrated, unable to access the application. Negative reviews and complaints flood social media platforms like Facebook, with users creating memes mocking the situation. Over time, users lose trust in the application, thinking that Flipkart deliberately brings the system down during sales. While this might not be Flipkart’s fault, customers don’t see the technical challenges. Instead, they form a negative perception, impacting the company’s reputation.
 
 ##### 2. How Microservices Help:
-In a microservices architecture, traffic management becomes more flexible and scalable. Here’s how, 
+In a Microservices architecture, traffic management becomes more flexible and scalable. Here’s how, 
 Instead of deploying the entire application as one instance, the product service is deployed as multiple, independent instances. For example, during peak traffic, you can scale up by deploying 10 instances of the product service across different servers. Hence  Traffic is dynamically distributed across these instances. If more requests are anticipated, additional instances can be deployed quickly to handle the load. Microservices architecture ensures that only the necessary components (like the product service) are scaled, optimizing resource usage. Even if one instance fails, others continue to handle requests, minimizing downtime and ensuring a smoother user experience.
 
 # Key Features of Microservices
