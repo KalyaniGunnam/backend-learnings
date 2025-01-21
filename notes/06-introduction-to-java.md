@@ -36,25 +36,25 @@ This paradigm focuses on describing what a program should do, leaving implementa
     -   Example: SQL, MongoDB Query Language.
 
 # Java 
-Java is a **high-level, class-based, object-oriented programming language** developed by Sun Microsystems and officially released in 1996. It was originally created by James Gosling in June 1991, but its first official version came out in 1996. Currently, Java is maintained by Oracle Corporation.
+Java is a **high-level, class-based, object-oriented programming language** developed by Sun Microsystems and officially released in 1996. It was originally created by **James Gosling** in June 1991, but its first official version came out in 1996. Currently, Java is maintained by Oracle Corporation.
 
 # Name Behind Java(Oak to Java)
 When James Gosling and his team at Sun Microsystems started developing the language in 1991, they initially named it "Oak". The inspiration came from an oak tree outside Gosling's office, symbolizing strength and reliability.
 
 However, during preparations for the first public release, the team discovered that "Oak" was already trademarked by another company in the computer industry. This led to a brainstorming session for a new name.
 
-The name "Java" was suggested, inspired by the coffee that fueled the team's long development sessions. They were particularly fond of a high-quality coffee named Java, which originates from the Indonesian island known for its coffee production. The name was chosen because it was:
+The name "Java" was suggested, **inspired by the coffee** that fueled the team's long development sessions. They were particularly fond of a high-quality coffee named Java, which originates from the Indonesian island known for its coffee production. The name was chosen because it was:
 - Simple and unique
 - Modern and tech-savvy
 - Representative of the team's energy
 
-To reflect this connection, Java’s logo was designed as a steaming coffee cup. The language also has a famous tagline: "Write Once, Run Anywhere" (WORA)—highlighting Java's revolutionary portability across platforms.
+To reflect this connection, **Java’s logo was designed as a steaming coffee cup**. The language also has a famous tagline: "Write Once, Run Anywhere" (WORA)—highlighting Java's revolutionary portability across platforms.
 
 # Why Java Is Designed
-Java was designed to be a platform-independent language, meaning compiled Java code can run on any device with a Java Virtual Machine (JVM). While concepts like platform independence and JVM will be explained in detail later, for now, understand that this feature makes Java versatile and widely used.
+Java was designed to be a **platform-independent language**, meaning compiled Java code can run on any device with a Java Virtual Machine (JVM). While concepts like platform independence and JVM will be explained in detail later, for now, understand that this feature makes Java versatile and widely used.
 
 Java supports the development of various types of applications, including:
-- Mobile Applications: e.g., WhatsApp, LinkedIn
-- Web Applications: e.g., Amazon, IRCTC
-- Desktop Applications: e.g., Notepad, Calculator
+- **Mobile Applications:** e.g., WhatsApp, LinkedIn
+- **Web Applications:** e.g., Amazon, IRCTC
+- **Desktop Applications:** e.g., Notepad, Calculator
 
