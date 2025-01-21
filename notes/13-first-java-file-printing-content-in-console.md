@@ -110,5 +110,5 @@ In Java, both `System.out.print()` and `System.out.println()` are used to print 
    - You can manually add a line break by inserting `\n` at the end of the string, which will force the output to the next line.
 
 2. **`System.out.println()`**:
-    - It prints the content and automatically moves to a new line after the output.
+    - It prints the content and **automatically moves to a new line** after the output.
     - This is the simplest and most commonly used method when you want each statement to be printed on a new line.
