@@ -35,6 +35,7 @@ Step 1: **Compile the Code**
 - Use the Java compiler **(javac)** to convert your code into a language the computer understands.
 - This process creates a **.class** file (e.g., Test.class). This file contains the bytecode.
 - Command to Compile: javac Test.java
+
 Step 2: **Run the Program**
 - After compiling, use the **java** command to execute the program.
 Command to Run: java TestProgram
