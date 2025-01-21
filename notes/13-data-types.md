@@ -17,7 +17,7 @@ Primitive data types represent basic data values and are predefined by the Java 
         - float: 32-bit floating-point number. → 4 bytes
         - double: 64-bit floating-point number. → 8 bytes
 (b) boolean type of data:
-        Represents true(1) or false(0). → 1 bit
+        Represents true or false. → 1 bit
 (c) character type of data:
         16-bit Unicode character. → 2 bytes
 ```
